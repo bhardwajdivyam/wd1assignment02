@@ -1,0 +1,62 @@
+header {
+    background-color: blue;
+    color: beige;
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+
+#mypic {
+    border-radius: 50%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+table {
+    border: 3px solid blue;
+    margin: auto;
+}
+
+th, td {
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+    border: 2px solid blue;
+    padding: 10px;
+}
+
+input[type="submit"] {
+    background-color: blue;
+    color: white;
+}
+
+button {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    background-color: black;
+    color: white;
+}
+
+footer {
+    background-color: blue;
+    color: beige;
+    text-align: center;
+    padding: 5px;
+}
